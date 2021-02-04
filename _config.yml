@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "척척학부생이 "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "한결"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "한결"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "한결의 **논문리뷰**."
+  bio              : "**무작위** 논문리뷰."
   location         : "Seoul, Korea"
   email            : "gksrufrufruf@naver.com"
   links:
