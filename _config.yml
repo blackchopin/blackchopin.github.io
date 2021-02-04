@@ -20,7 +20,7 @@ title                    : "척척학부생이_될테야"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "한결"
-description              : "한결의 논문리뷰"
+description              : "한결의 무작위 논문리뷰"
 url                      : "https://blackchopin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "한결"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**무작위** 논문리뷰."
+  bio              : "한결의 무작위 논문리뷰."
   location         : "Seoul, Korea"
   email            : "gksrufrufruf@naver.com"
   links:
