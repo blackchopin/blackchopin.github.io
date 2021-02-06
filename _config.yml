@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "한결"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "한결의 무작위 논문리뷰."
+  avatar           : "/assets/profile.jpg"
+  bio              : "Hello. World!"
   location         : "Seoul, Korea"
   email            : "gksrufrufruf@naver.com"
   links:
