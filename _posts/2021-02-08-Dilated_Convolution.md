@@ -107,7 +107,8 @@ FCN은 이를 그대로 두었기에 feature map의 크기가 1/32까지 작아�
 
 - $k^b (t,a) = 1_{t=0} 1_{a=b}$ (a = index of feature map , b = index of output map)
 
-  <br/>
+
+<br/>
 
 이 모듈은 어느 dense prediction architecture에 사용을 해도 괜찮음 (C->C)
 

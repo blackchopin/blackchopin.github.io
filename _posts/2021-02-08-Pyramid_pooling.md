@@ -72,10 +72,10 @@ typora-copy-images-to: ..\images\SPPNet
 <br/>
 
 - 다양한 크기의 입력으로부터 일정한 크기의 feature를 추출해 낼 수 있는 방법
-
 - 특정 객체를 분류하는데 굵고 강한 특징에 의존하지 않고 여러 개의 작은 특징을 사용하여 객체를 구별
-
 - SPPNet도 BoW 처럼 이미지를 구성하는 특징들로 이미지를 나타내는 개념
+
+<br/>
 
 위치는 고려하지 않고 부분으로 물체 구별
 
@@ -118,6 +118,7 @@ typora-copy-images-to: ..\images\SPPNet
 
 - SPPnet을 거친 feature에 softmax를 수행하여 분류에 사용
 
+<br/>
 
 두 네트워크에서 출력은 동일함
 
@@ -151,7 +152,8 @@ typora-copy-images-to: ..\images\SPPNet
 
 - SPPNet은 입력 이미지를 그대로 CNN에 통과시켜 feature map을 추출한 후 feature map에서 2000개의 영역을 찾아 SPP를 적용하여 고정된 크기의 feature를 얻어냄
 
-  <br/>
+
+<br/>
 
 SVM = Support Vector Machine : 데이터 분류기법
 
