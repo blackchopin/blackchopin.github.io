@@ -1,4 +1,13 @@
-
+---
+layout: single
+title: "[논문리뷰]  Multi-scale context aggregation by dilated convolutions"
+tage: [SemanticSegmentation]
+comments: true
+published: true
+categories: SemanticSegmentation
+use_math: true
+typora-copy-images-to: ..\images\Dilated_Convolution
+---
 
 
 
