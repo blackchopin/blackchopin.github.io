@@ -20,7 +20,7 @@ title                    : "척척학부생이_될테야"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "한결"
-description              : "한결의 무작위 논문리뷰"
+description              : "Hello, World!"
 url                      : "https://blackchopin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
