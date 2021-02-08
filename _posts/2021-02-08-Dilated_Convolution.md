@@ -9,31 +9,25 @@ use_math: true
 typora-copy-images-to: ..\images\Dilated_Convolution
 ---
 
-
+<br/>
 
 **[논문리뷰]  Multi-scale context aggregation by dilated convolutions**
 
-
+<br/>
 
 ## Dilated Convolution
 
-
+<br/>
 
 ![image-20210208142015103](/images/Dilated_Convolution/image-20210208142015103.png)
 
-
+<br/>
 
 - Convolutional layer에 필터 사이의 간격을 정의하는 dilation factor를 도입
 
-  
-
 - Dilation factor=2인 3x3 필터는 9개의 파라미터를 사용하며 5x5 필터와 동일한 시야(view)를 가짐
 
-  
-
 - $(F*k)(p) = \sum_{s+t=p}F(s)k(t)$
-
-  
 
 - $(F*_lk)(p) = \sum_{s+lt=p}F(s)k(t)$ (l=dilation factor)
 
@@ -47,19 +41,13 @@ typora-copy-images-to: ..\images\Dilated_Convolution
 
 이를 이용해 픽셀 단위 예측을 하기 위해 다시 up-sampling을 통해 영상의 크기를 키운 결과
 
-
-
 아래는 dilated convolution을 통해 얻은 결과
 
 <br/>
 
 - Receptive field의 크기가 커짐
 
-  
-
 - Dilation factor 조정 시 다양한 scale에 대한 대응이 가능해짐
-
-  
 
 - 기존의 CNN에서는 receptive field의 확장을 위해 pooling layer를 통해 feature map의 크기를 줄인 후 convolution 연산을 수행하는 방식으로 계산
 
@@ -77,15 +65,9 @@ typora-copy-images-to: ..\images\Dilated_Convolution
 
 - VGG-16 network을 수정
 
-  
-
 - Pool 4, 5를 제거함으로써 원 영상의 1/8까지 작아져 detail을 가짐
 
-  
-
 - Conv 5, 6은 dilated convolution을 사용함
-
-  
 
 - 기존의 구조보다 연산량이 줄어듬
 
@@ -103,11 +85,9 @@ FCN은 이를 그대로 두었기에 feature map의 크기가 1/32까지 작아�
 
 ## 실험결과
 
-
+<br/>
 
 ![image-20210208142840890](/images/Dilated_Convolution/image-20210208142840890.png)
-
-
 
 <br/>
 
