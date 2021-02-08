@@ -15,7 +15,7 @@ typora-copy-images-to: ..\images\Dilated_Convolution
 
 
 
-## ****Dilated** **Convolution****
+## Dilated Convolution
 
 
 
@@ -67,7 +67,7 @@ typora-copy-images-to: ..\images\Dilated_Convolution
 
 <br/>
 
-## ****Front-end module****
+## Front-end module
 
 <br/>
 
@@ -113,7 +113,7 @@ FCN은 이를 그대로 두었기에 feature map의 크기가 1/32까지 작아�
 
 <br/>
 
-## **Multi-Scale** **Context Aggregation (The Context Module)**
+## **Multi-Scale** Context Aggregation (The Context Module)
 
 <br/>
 
