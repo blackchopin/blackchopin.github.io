@@ -125,7 +125,7 @@ FCN은 이를 그대로 두었기에 feature map의 크기가 1/32까지 작아�
 
 - C개의 feature map을 input값으로 받고, output을 C개의 feature map으로 생성함
 
-- $k^b (t,a) = 1_{[t=0]} 1_{[a=b]}$ (a = index of feature map , b = index of output map)
+- $k^b (t,a) = 1_{t=0} 1_{a=b}$ (a = index of feature map , b = index of output map)
 
   <br/>
 
