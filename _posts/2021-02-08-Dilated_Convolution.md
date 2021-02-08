@@ -43,9 +43,9 @@ typora-copy-images-to: ..\images\Dilated_Convolution
 
 <br/>
 
-위그림에서 위쪽은 앞서 설명한 것처럼 down-sampling(pooling) 후 conv를 통해 large RF를 갖는 feature map을 얻고,
+그림에서 위쪽은 down-sampling(pooling) 후 conv를 통해 large RF를 갖는 feature map을 얻고,
 
-이를 이용해 픽셀 단위 예측을 하기 위해 다시 up-sampling을 통해 영상의 크기를 키운 결과임.
+이를 이용해 픽셀 단위 예측을 하기 위해 다시 up-sampling을 통해 영상의 크기를 키운 결과
 
 
 
@@ -79,29 +79,23 @@ typora-copy-images-to: ..\images\Dilated_Convolution
 
   
 
-- Pool4, 5를 제거함으로써 원 영상의 1/8까지 작아져 detail을 가짐
+- Pool 4, 5를 제거함으로써 원 영상의 1/8까지 작아져 detail을 가짐
 
   
 
-- Conv5, 6은 dilated convolution을 사용함
+- Conv 5, 6은 dilated convolution을 사용함
 
   
 
 - 기존의 구조보다 연산량이 줄어듬
 
+<br/>
 
-
-Multi-Scale Context Aggregation by dilated convolutions에서는 크게 두 가지의 network module로 구성됨
-
-(Frond-end module과 context module)
-
-
+Multi-Scale Context Aggregation by dilated convolutions에서는 크게 두 가지의 network module로 구성됨 (Frond-end module과 context module)
 
 뒷단이 크게 도움이 되지 않기에 제외함
 
-FCN은 이를 그대로 두었기에 feature map의 크기가 1/32까지 작아지고 
-
-이로 인해 좀 더 해상도가 높은 pool4, 3의 결과를 사용하기 위해 skip layer라는 것을 포함시킴
+FCN은 이를 그대로 두었기에 feature map의 크기가 1/32까지 작아지고 이로 인해 좀 더 해상도가 높은 pool4, 3의 결과를 사용하기 위해 skip layer라는 것을 포함시킴
 
 <br/>
 
@@ -131,9 +125,9 @@ FCN은 이를 그대로 두었기에 feature map의 크기가 1/32까지 작아�
 
 - C개의 feature map을 input값으로 받고, output을 C개의 feature map으로 생성함
 
-- $k^b (t,a)=1_{[t=0]} 1_{[a=b]}$ (a = index of feature map , b = index of output map)
+- $k^b (t,a) = 1_{[t=0]} 1_{[a=b]}$ (a = index of feature map , b = index of output map)
 
-  
+  <br/>
 
 이 모듈은 어느 dense prediction architecture에 사용을 해도 괜찮음 (C->C)
 
