@@ -19,7 +19,7 @@ typora-copy-images-to: ..\images\SPPNet
 
 
 
-![image-20210208152427541](F:\HahnGyeol\GitHub\blackchopin.github.io\images\SPPNet\image-20210208152427541.png)
+![image-20210208152427541](/images/SPPNet/image-20210208152427541.png)
 
 <br/>
 
@@ -45,7 +45,7 @@ typora-copy-images-to: ..\images\SPPNet
 
 ## **Convolutional Layers and Feature Maps**
 
-![image-20210208152532912](F:\HahnGyeol\GitHub\blackchopin.github.io\images\SPPNet\image-20210208152532912.png)
+![image-20210208152532912](/images/SPPNet/image-20210208152532912.png)
 
 <br/>
 
@@ -71,7 +71,7 @@ typora-copy-images-to: ..\images\SPPNet
 
 ## **BoW** (Bag of Words)
 
-![image-20210208152646978](F:\HahnGyeol\GitHub\blackchopin.github.io\images\SPPNet\image-20210208152646978.png)
+![image-20210208152646978](/images/SPPNet/image-20210208152646978.png)
 
 <br/>
 
@@ -97,7 +97,7 @@ typora-copy-images-to: ..\images\SPPNet
 
 
 
-![image-20210208152734300](F:\HahnGyeol\GitHub\blackchopin.github.io\images\SPPNet\image-20210208152734300.png)
+![image-20210208152734300](/images/SPPNet/image-20210208152734300.png)
 
 <br/>
 
@@ -123,7 +123,7 @@ typora-copy-images-to: ..\images\SPPNet
 
 ## **SPP-Net for image** classfication
 
-![image-20210208152830292](F:\HahnGyeol\GitHub\blackchopin.github.io\images\SPPNet\image-20210208152830292.png)
+![image-20210208152830292](/images/SPPNet/image-20210208152830292.png)
 
 <br/>
 
@@ -147,7 +147,7 @@ typora-copy-images-to: ..\images\SPPNet
 
 ## 실험 결과
 
-![image-20210208152927098](F:\HahnGyeol\GitHub\blackchopin.github.io\images\SPPNet\image-20210208152927098.png)
+![image-20210208152927098](/images/SPPNet/image-20210208152927098.png)
 
 
 
@@ -163,7 +163,7 @@ typora-copy-images-to: ..\images\SPPNet
 
 
 
-![image-20210208152957202](F:\HahnGyeol\GitHub\blackchopin.github.io\images\SPPNet\image-20210208152957202.png)
+![image-20210208152957202](/images/SPPNet/image-20210208152957202.png)
 
 <br/>
 
@@ -189,4 +189,4 @@ Bbox reg = Bounding box regression : 선형 회귀 모델 -> 물체를 정확히
 
 
 
-![image-20210208153026850](F:\HahnGyeol\GitHub\blackchopin.github.io\images\SPPNet\image-20210208153026850.png)
+![image-20210208153026850](/images/SPPNet/image-20210208153026850.png)
