@@ -1,4 +1,6 @@
+```yaml
 title: "Posts by Year"
+permalink: /year-archive/
 layout: posts
-permalink: /Year-archive/
 author_profile: true
+```
