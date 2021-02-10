@@ -19,7 +19,7 @@ typora-copy-images-to: ..\images\Real_dataset
 
 <br/>
 
-![image-20210210135558707](F:\HahnGyeol\GitHub\blackchopin.github.io\images\Real_dataset\image-20210210135558707.png)
+![image-20210210135558707](/images/Real_dataset/image-20210210135558707.png)
 
 <br/>
 
@@ -31,7 +31,7 @@ typora-copy-images-to: ..\images\Real_dataset
 
   <br/>
 
-<img src="F:\HahnGyeol\GitHub\blackchopin.github.io\images\Real_dataset\image-20210210135627147.png" alt="image-20210210135627147" style="zoom:80%;" />
+<img src="/images/Real_dataset/image-20210210135627147.png" alt="image-20210210135627147" style="zoom:80%;" />
 
 <br/>
 
@@ -49,11 +49,11 @@ typora-copy-images-to: ..\images\Real_dataset
 - 같은 scene에 대해 Analog gains (ISO 값)을 달리하여 촬영
 - Low-ISO image를 GT로 사용하는 대신, 전처리 거침
 
-![image-20210210135748431](F:\HahnGyeol\GitHub\blackchopin.github.io\images\Real_dataset\image-20210210135748431.png)
+![image-20210210135748431](/images/Real_dataset/image-20210210135748431.png)
 
 <br/>
 
-![image-20210210135809609](F:\HahnGyeol\GitHub\blackchopin.github.io\images\Real_dataset\image-20210210135809609.png)
+![image-20210210135809609](/images/Real_dataset/image-20210210135809609.png)
 
 <br/>
 
@@ -67,7 +67,7 @@ typora-copy-images-to: ..\images\Real_dataset
 
 <br/>
 
-![image-20210210135835434](F:\HahnGyeol\GitHub\blackchopin.github.io\images\Real_dataset\image-20210210135835434.png)
+![image-20210210135835434](/images/Real_dataset/image-20210210135835434.png)
 
 <br/>
 
@@ -81,7 +81,7 @@ typora-copy-images-to: ..\images\Real_dataset
 
 <br/>
 
-<img src="F:\HahnGyeol\GitHub\blackchopin.github.io\images\Real_dataset\image-20210210135902485.png" alt="image-20210210135902485" style="zoom:80%;" />
+<img src="/images/Real_dataset/image-20210210135902485.png" alt="image-20210210135902485" style="zoom:80%;" />
 
 <br/>
 
@@ -91,7 +91,7 @@ typora-copy-images-to: ..\images\Real_dataset
 
 <br/>
 
-![image-20210210135937833](F:\HahnGyeol\GitHub\blackchopin.github.io\images\Real_dataset\image-20210210135937833.png)
+![image-20210210135937833](/images/Real_dataset/image-20210210135937833.png)
 
 <br/>
 
@@ -112,7 +112,7 @@ Reference → Noisy → Clean (Sandwich 전략)
 
 <br/>
 
-![image-20210210140050927](F:\HahnGyeol\GitHub\blackchopin.github.io\images\Real_dataset\image-20210210140050927.png)
+![image-20210210140050927](/images/Real_dataset/image-20210210140050927.png)
 
 <br/>
 
@@ -126,8 +126,8 @@ Reference → Noisy → Clean (Sandwich 전략)
 
 <br/>
 
-<img src="F:\HahnGyeol\GitHub\blackchopin.github.io\images\Real_dataset\image-20210210140130443.png" alt="image-20210210140130443" style="zoom:80%;" />
+<img src="/images/Real_dataset/image-20210210140130443.png" alt="image-20210210140130443" style="zoom:80%;" />
 
 <br/>
 
-![image-20210210140156547](F:\HahnGyeol\GitHub\blackchopin.github.io\images\Real_dataset\image-20210210140156547.png)
+![image-20210210140156547](/images/Real_dataset/image-20210210140156547.png)
