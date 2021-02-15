@@ -1,10 +1,10 @@
 ---
 layout: single
 title: "[논문리뷰] Deep Near Infrared Colorization with Semantic Segmentation and Transfer Learning"
-tage: [Segmentation]
+tage: [SemanticSegmentation]
 comments: true
 published: true
-categories: Segmentation
+categories: SemanticSegmentation
 use_math: true
 typora-copy-images-to: ..\images\Deep_Near_Infrared
 ---
@@ -19,7 +19,7 @@ typora-copy-images-to: ..\images\Deep_Near_Infrared
 
 <br/>
 
-![image-20210210142836812](F:/images/Deep_Near_Infrared/image-20210210142836812.png)
+![image-20210210142836812](/images/Deep_Near_Infrared/image-20210210142836812.png)
 
 <br/>
 
