@@ -35,8 +35,6 @@ typora-copy-images-to: ..\images\N2N
 
 ![image-20210216101905883](/images/N2N/image-20210216101905883.png)
 
-<br/>
-
 z = denoised image
 
 x, y 모두 corrupted image
@@ -52,8 +50,6 @@ Averge gradient를 통해 주위의 noisy target으로 부터 clean target을 �
 <br/>
 
 ![image-20210216101937596](/images/N2N/image-20210216101937596.png)
-
-<br/>
 
 *"clean targets are unnecessary in this application"*
 
